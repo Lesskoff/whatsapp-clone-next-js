@@ -1,3 +1,15 @@
+:root {
+  --lines-color: whitesmoke;
+  --lightest-gray-color: whitesmoke;
+  --bg-color: white;
+  --bg-chat-color: #e5ded8;
+  --gray-color: gray;
+  --hover-bg-color: rgba(0, 0, 0, 0.04);
+  --hover-bg-darken-color: rgba(0, 0, 0, 0.1);
+  --logo-color: #3cbc28;
+  --transition: all 0.2s;
+}
+
 html,
 body {
   padding: 0;
